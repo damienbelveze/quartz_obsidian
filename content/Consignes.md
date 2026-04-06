@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/consignes/"}
+title: "synthèse des activités proposées sur Obsidian"
 ---
 
 
@@ -10,14 +10,11 @@ Les indications suivantes sont rédigées à l'intention de l'animateur mais peu
 
 ## 1.1 installation
 
-- <a href="https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fdamienbelveze%2Furfist_obsidian%2Ftree%2Fmain%2Fsrc%2Fsite%2Fnotes">télécharger  dans le dossier *coffre* les notes en format .zip</a>  
-- <a href="https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fdamienbelveze%2Furfist_obsidian%2Ftree%2Fmain%2Fsrc%2Fsite%2Fimg%2Fuser%2Fimages">télécharger dans ce même dossier les images en format .zip</a>
-- Aller dans les Téléchargements où ces deux archives doivent se trouver
-- dézipper ces deux fichiers 
-- renommer *damienbelveze urfist_obsidian main src-site_notes* en **coffre**
-- renommer *damienbelveze urfist_obsidian main src-site_img_user_images* en **images**
-- glisser le dossier **images** à l'intérieur de **coffre**
-- envoyer ou copier le dossier coffre des Téléchargements vers le bureau
+- <a href="https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fdamienbelveze%2Fquartz_obsidian%2Ftree%2Fv4%2Fcontent">télécharger les notes en format .zip</a>  
+
+- Aller dans les Téléchargements où cette archive doit se trouver
+- dézipper ce fichier, renommer le dossier extrait "coffre" 
+- envoyer ou copier le dossier "coffre" depuis les Téléchargements vers le bureau
 - ouvrir l'application Obsidian  
 - Cliquer sur "Nouveau coffre à partir d'un dossier existant". 
 - Sélectionner le dossier **coffre** sur le bureau
@@ -26,14 +23,8 @@ Présenter aux apprenants les différents éléments constitutifs du dossier : c
 
 ### 1.2 Présentation d'Obsidian et de la journée avec le canvas de la formation
 
-Ouvrir le fichier [[assets/Formation,_urfist.canvas|Formation,_urfist]] et commenter les branches.
+Ouvrir le fichier [[assets/Formation_urfist.canvas|Formation_urfist]] et commenter les branches.
 Indiquer en quoi consistent les fichiers .canvas
-
-> ![!attention]-
-> Dans le coffre téléchargé,le lien vers le dossier image n'est pas le bon
-> il faut remplacer dans chaque note (search & replace) le chemin /img/user/images/image.png par /images/image.png
-> On ne peut pas faire cela au niveau du coffre, seulement de la note. C'est une limite d'Obsidian par rapport à VSCode par exemple.
-> Bien sûr on peut aussi insérer le dossier images dans deux autres dossiers enchâssés img et user mais ce n'est pas le plus pratique
 
 Au niveau de Zettelkasten, montrer comment une note peut donner lieu à un diaporama
 (faire activer le plugin par défaut "Diapositives")
@@ -47,8 +38,6 @@ Attention pour exécuter le code, il faut être en mode lecture. En cas d'erreur
 
 
 ## 1.3. Créer le graphe de notes
-
-
 
 Dans la carte mentale, les [[unicode\|nœuds]] surlignés en orange indiquent comment les notes peuvent être liées entre elles. Pour chacun de ces nœuds surlignés existe une note. 
 
