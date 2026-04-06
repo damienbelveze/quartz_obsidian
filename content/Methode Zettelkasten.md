@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/methode-zettelkasten/"}
+title: "principes de la méthode Zettelkasten"
 ---
 
 
@@ -8,7 +8,7 @@
 ## principes de la méthode Zettelkasten
 ### présentation d'Obsidian
 #### Damien Belvèze
-#### 17 janvier 2023
+#### 10 avril 2026
 
 ---
 
@@ -27,17 +27,17 @@ Luhmann est-il devenu un génie parce qu'il a inventé un système de notes comp
 
 ---
 
-![](/img/user/images/zettelkasten1B.png)       
+![](images/zettelkasten1B.png)       
 Notes prises dans la matrice (exemple : un cahier imprimé) 
 
 ---
 
-![](/img/user/images/zettelkasten2B.png)
+![](images/zettelkasten2B.png)
 notes volantes, pas de liens (exemple : des post-its)
 
 ---
 
-![](/img/user/images/zettelkasten3B.png)
+![](images/zettelkasten3B.png)
 notes rangées par catégories / dossiers 
 
 ---
@@ -47,7 +47,7 @@ notes rangées par catégories / dossiers
 - Comment ranger facilement une note dans une catégorie plus récente et plus pertinente ? 
 ---
 
-![](/img/user/images/zettelkasten4B.png)
+![](images/zettelkasten4B.png)
 notes rangées par tags 
 
 ---
@@ -58,7 +58,7 @@ notes rangées par tags
 
 ---
 
-![](/img/user/images/zettelkasten5B.png)
+![](images/zettelkasten5B.png)
 notes rangées liées par des liens et des rétroliens
 
 ---
@@ -72,13 +72,13 @@ notes rangées liées par des liens et des rétroliens
 ---
 
  
-![](/img/user/images/zettelkasten7.jpg)
+![](images/zettelkasten7.jpg)
 
 arborescence ou horizontalité ?
 
 ---
 
-![](/img/user/images/zettelkasten8B.png)
+![](images/zettelkasten8B.png)
 
 --- 
 

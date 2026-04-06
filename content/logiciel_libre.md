@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/logiciel-libre/","tags":["référence"]}
+title: "logiciel libre"
 ---
 
 

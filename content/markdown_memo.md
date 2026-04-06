@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/markdown-memo/"}
+title: "memo markdown"
 ---
 
 
@@ -196,7 +196,7 @@ On peut le faire notamment pour un PDF :
 
 Voir par exemple :
 
-![[shortcuts.pdf]]
+![[assets/shortcuts.pdf]]
 
 ## 3.5 Les codes de bloc
 

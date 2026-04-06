@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/resolution-de-problemes/"}
+title: "résolution des problèmes avec Execute-Code"
 ---
 
 

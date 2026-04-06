@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/jardin-numerique/","tags":["ajout_image","liste_puces","référence"]}
+title: "jardin numérique"
 ---
 
 

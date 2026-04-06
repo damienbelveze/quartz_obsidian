@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pandoc-reference-list/"}
+title: "pandoc reference list"
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/texte-simple/"}
+title: "texte simple"
 ---
 
 

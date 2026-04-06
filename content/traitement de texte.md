@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/traitement-de-texte/","tags":["référence"]}
+title: "traitement de texte"
 ---
 
 

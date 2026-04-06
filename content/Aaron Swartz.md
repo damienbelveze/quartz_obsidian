@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aaron-swartz/"}
+title: "Aaron Swartz"
 ---
 
 

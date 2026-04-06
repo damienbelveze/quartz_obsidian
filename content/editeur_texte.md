@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/editeur-texte/"}
+title: "éditeur de texte"
 ---
 
 

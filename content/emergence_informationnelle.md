@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/emergence-informationnelle/"}
+title: "émergence informationnelle"
 ---
 
 
