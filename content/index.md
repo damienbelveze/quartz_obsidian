@@ -1,7 +1,7 @@
 ---
 title: "Prise en main d'Obsidian
 subtitle: "Première partie"
-author: "Damien Belvèze"
+authors: "Damien Belvèze"
 date: 20260406
 ---
 
