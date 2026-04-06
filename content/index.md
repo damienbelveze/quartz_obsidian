@@ -1,7 +1,6 @@
 ---
 title: "Prise en main d'Obsidian
 subtitle: "Première partie"
-author: "Damien Belvèze"
 date: "10 avril 2026"
 ---
 
