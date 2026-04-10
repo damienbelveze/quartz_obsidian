@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mode-d-emploi-d-obsidian/","title":"Comment utiliser Obsidian","tags":["prise_notes","méthode_travail"]}
+title: "mode d'emploi d'Obsidian"
 ---
 
 
@@ -7,7 +7,7 @@
 
 # 1. Pourquoi utiliser Obsidian pour prendre des notes ?
 
-![](/img/user/images/tweet_schaller.PNG)
+![](images/tweet_schaller.PNG)
 
 ## 1.1 intérêts de la prise de note pour le travail intellectuel
 
@@ -53,7 +53,7 @@ Obsidian est un outil qui favorise le *jardinage* des notes[[@CollignonIntegrati
 
 Obsidian devient rapidement un outil personnel incontournable et nous développons au fur er à mesure que notre usage se déploit de nouvelles compétences pour le maintenir et le rendre encore plus productif
 
-![](/img/user/images/Khafagy.PNG)
+![](images/Khafagy.PNG)
 
 Certains utilisent Obsidian pour se lancer dans l'apprentissage du code par essai et erreur (puisqu'une note peut embarquer du code)[[@KhafagyTwitterPublish2022\|@KhafagyTwitterPublish2022]]
 
@@ -247,7 +247,7 @@ Le *pipe* ([[pipe\|pipe]]) (\|) qui sert à faire des tableaux peut aussi permet
 
 **code :** 
 
-![respect des espaces en début de ligne](/img/user/images/adonis.PNG)
+![respect des espaces en début de ligne](images/adonis.PNG)
 
 
 **résultat : **
@@ -325,7 +325,7 @@ ou
 
 \!\[bibliothèque\]\(images/BUVS.jpg\)
 
- ![bibliothèque](/img/user/images/buvs.jpg)
+ ![bibliothèque](images/buvs.jpg)
 
 possibilité, comme pour un PDF de faire un glisser déposer du document dans la note. 
 
@@ -582,13 +582,13 @@ pour passer une ligne (en vue d'une conversion en PDF avec Pandoc)
 L’image peut prendre trop d’espace sur la page. Dans ce cas, il convient de déterminer sa dimension pour qu’elle s’insère sans problème sur la page. Cela se fait au moyen des attributs HTML *width* ou *heigth* exprimés en valeur absolue (nombre de pixels) ou relatives (pourcentage par rapport à la largeur ou à la hauteur de l'image initiale). 
 
 ```
-![bibliotheque](/img/user/images/buvs.jpg){ width=20% }
+![bibliotheque](images/buvs.jpg){ width=20% }
 ```
 
 réduit à 20% la largeur initiale de l’image (on ne touche pas à la hauteur pour garder les proportions). 
 
 ```
-![bibliotheque](/img/user/images/buvs.jpg){ width=200px }
+![bibliotheque](images/buvs.jpg){ width=200px }
 ```
 réduit la largeur de l'image à 200 pixels
 
@@ -618,8 +618,8 @@ la bibliothèque en javascript mermaid.js permet d'inclure des graphiques (camem
 Il existe de nombreux tutos consacrés à cet outil qu'il n'est pas nécessaire d'installer dans Obsidian. Voir ce [guide](https://www.mishacreatrix.com/knowledge-management-flow-diagram-in-obsidian) entre autres. Pour s'essayer à la construction de ces graphiques, on peut utiliser [le site https://mermaid.live](https://mermaid.live)
 
 exemple : [worklfow éditorial réalisé par UjuBib](https://twitter.com/UjuBib/status/1480519081820397572) : 
-![code](/img/user/images/mermaid2.png)
-![graphe](/img/user/images/mermaid1.png)
+![code](images/mermaid2.png)
+![graphe](images/mermaid1.png)
 
 ## 3.6 importer des notes écrites dans un autre format que Markdown
 
@@ -710,13 +710,13 @@ D'après Arthur Perret[[@PerretWhatpointgraph2022]], le bénéfice de ces visual
 
 Lorsque les notes ne sont pas liés à quelques projets, cette constellation devient vite illisible. 
 
-![vue graphique globale](/img/user/images/graphe_obsidian.png)
+![vue graphique globale](images/graphe_obsidian.png)
 
 Bien entendu, on peut zoomer sur telle ou telle partie, mais ça devient vite confus au bout d'un moment. 
 
 pour visualiser les notes connexes à la note de son choix, il suffit de laisser la souris sur cette note 
 
-![liens entre les notes](/img/user/images/selection_graphe.png)
+![liens entre les notes](images/selection_graphe.png)
 
 Les points de couleur représentent le statut de la note : 
 
@@ -729,7 +729,7 @@ On peut assigner aux tags d'autres couleurs que la couleur marron qui est celle 
 
 Pour cela se positionner dans la vue graphique, cliquer sur la roue crantée et sélectionner nouveau groupe. Pour visualiser toutes les références (notes commençant par un \@), on peut par exemple fixer une couleur particulière au groupe **file:\@**
 
-![couleur des tags](/img/user/images/couleur_tags.PNG)
+![couleur des tags](images/couleur_tags.PNG)
 
 ### prendre conscience de l'importance des notes au moyen de la vue graphique
 
@@ -739,13 +739,13 @@ la centralité de degré : la note qui a le plus de liens avec des notes qui ont
 la centralité de proximité : la note à partir de laquelle les chemins sont les plus courts vers l'ensemble des notes du graphe
 la centralité d'intermédiarité : la note qui relie  entre elles le plus de pôles (ypiquement une note orange pourrait relier un pôle de notes fruits et un pôle de notes objets de couleur orange)
 
-![cerf-volant de Krackhardt ](/img/user/images/graph_theory.png)
+![cerf-volant de Krackhardt ](images/graph_theory.png)
 
 ### vue graphique locale
 
 Plus intéressante est la possibilité d'ouvrir un graphe local à partir de la note (aller dans les raccourcis clavier pour paramétrer la combinaison de touches qui vous conviendra pour faire apparaître ce graphe)
 
-![graphe local à partir de la note affichée](/img/user/images/graphe_local.png)
+![graphe local à partir de la note affichée](images/graphe_local.png)
 
 On peut régler la taille du graphe en choisissant le nombre de degrés à partir du noeud que constitue la note affichée (de 1 à 6 degrés - ci-dessus, le nombre de degrés est fixé à 3 : "démiurge" est distant de 3 degrés de "islam")
 
@@ -948,7 +948,7 @@ On peut afficher un calendrier dans Obsidian au moyen du plugin communautaire Ca
 Cliquer sur une journée permet de créer une note relative à cette journée. 
 Il est possible de créer un template pour les notes quotidiennes en indiquant son chemin dans les paramètres du plugin.
 
-![revue des activités de la semaine](/img/user/images/calendar.png)
+![revue des activités de la semaine](images/calendar.png)
 
 ## 6.3 daily notes
 
@@ -1004,7 +1004,7 @@ il est possible d'importer des notes créées dans Zotero avec le plugin MDnotes
 1. Charger le [plugin MDnotes](https://github.com/argenos/zotero-mdnotes) dans Zotero
 2. paramétrer le plugin
 
-![](/img/user/images/mdnotes1.PNG)
+![](images/mdnotes1.PNG)
 
 3. Indiquer un répertoire d'export dans Obsidian (par exemple un répertoire intitulé MDnotes)
 4. Dans ce répertoire, MDnotes cherchera les fichiers suivants : 
