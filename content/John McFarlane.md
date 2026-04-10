@@ -2,7 +2,7 @@
 title: "John McFarlane"
 type: "personne"
 dates_vie: "1967- "
-tag: "sociologue"
+tag: "informaticien"
 image: "images/john_macfarlane.jpg"
 ---
 
